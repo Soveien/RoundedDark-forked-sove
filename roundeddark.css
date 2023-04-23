@@ -453,49 +453,15 @@ a[href="/store"]:hover:before{
 .contentRegion-3HkfJJ{margin:var(--spacing);margin-left:0px;border-radius:var(--radius);}
 .standardSidebarView-E9Pc3j{background:var(--lightgrey);}
 
-/* ## Plug-ins ## */
-/* Better Discord */
-.bd-notice{
-    border-radius:var(--radius)!important;
-    margin-right:var(--spacing);
-    background:var(--blurple)!important;
-}
-#bd-notices{
-	position:absolute;
-}
-.bd-notice-content{padding:16px;}
-/* Channel Tabs */
-#channelTabs-container{
-    background:var(--darkgrey)!important;
-    padding-bottom:3px!important;
-}
-.channelTabs-tab{border-radius:var(--radius)!important;}
-.channelTabs-newTab:hover, 
-.channelTabs-tabNavLeft:hover,
-.channelTabs-tabNavRight:hover
-{border-radius:var(--radius)!important;}
-.channelTabs-tabName{
-    font-family:"gg sans","Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 1rem;
-    font-weight: 500;
-}
-.channelTabs-closeTab,
-.channelTabs-tabNavClose,
-#channelTabs-settingsMenu:hover
-{border-radius:var(--radius);}
-.channelTabs-closeTab:hover{
-    border-radius:var(--radius);
-    background:transparent!important;
-    border:1px solid var(--red);
-    color: var(--red);
-}
-#channelTabs-settingsMenu{
-    margin-right:10px;
-    margin-top:5px;
-    display: inline-flex;
-   align-items: center; 
-}
-.channelTabs-settingsIcon{width:20px;}
+
+
+
+
+
+
+
+
+
 
 /* Fix Spacing */
 .applicationStore-2nk7Lo, .chat-2ZfjoI, .container-2cd8Mz{
